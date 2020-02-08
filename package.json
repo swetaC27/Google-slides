@@ -19,7 +19,7 @@
   "homepage": "https://github.com/neu-mis-info6150-fall-2018/extra-credit-assignment-ppt-swetaC27#readme",
   "dependencies": {},
   "devDependencies": {
-    "ckeditor": "^4.10.1",
+    "ckeditor": "^4.12.1",
     "css-loader": "^1.0.1",
     "node-sass": "^4.10.0",
     "sass-loader": "^7.1.0",
